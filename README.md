@@ -99,9 +99,9 @@
 <details>
   <summary>:zap:Minhas Atividades</summary>
 <div align="left">
-  <img height="180" src="https://github-readme-stats-rho-three-54.vercel.app/api?username=pedlusantiago&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=pedlusantiago&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  />
   <br/>
-  <img height="180" src="https://github-readme-stats-rho-three-54.vercel.app/api/top-langs/?username=pedlusantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedlusantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
 </div>
 </details>
 <br clear="both"/>

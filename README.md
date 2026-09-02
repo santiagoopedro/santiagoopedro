@@ -101,7 +101,7 @@
 <div align="left">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=pedlusantiago&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  />
   <br/>
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedlusantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10](https://github-stats-extended.vercel.app/api/top-langs?username=santiagoopedro&layout=compact&hide_title=true&langs_count=100&disable_animations=true&theme=jolly)" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=santiagoopedro&layout=compact&langs_count=10&theme=cobalt2" />
 </div>
 </details>
 <br clear="both"/>
